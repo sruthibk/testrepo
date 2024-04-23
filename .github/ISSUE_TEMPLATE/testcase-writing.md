@@ -1,3 +1,11 @@
+---
+name: TestCase
+about: TestCases
+title: ''
+labels: ''
+assignees: ''
+
+---
 <!DOCTYPE html>
 <html>
 <body>
