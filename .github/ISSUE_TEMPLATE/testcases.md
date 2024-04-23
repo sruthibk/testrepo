@@ -18,7 +18,7 @@
 <p>3) Click Sign in</p>
 </td>
 <td>Email: test@ibm.com<p></p>
-<p>Password: lNf9^Oti7^2h</p>
+<p>Password: XYZ</p>
 </td>
 </tr>
 </tbody>
