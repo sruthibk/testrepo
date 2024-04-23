@@ -1,6 +1,10 @@
 ---
 name: Testcases
 about: Testcases
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!--
