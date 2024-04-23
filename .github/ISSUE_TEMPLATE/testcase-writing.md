@@ -1,12 +1,3 @@
----
-name: testcase writing
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -14,21 +5,27 @@ assignees: ''
 <thead>
 <tr>
 <th>Test Case ID</th>
-<th>Test Case Description</th>
-<th>Test Steps</th>
+<th>Test Scenario</th>
+<th>Test Case</th>
+<th>Pre Condition</th>
+<th>Test Step</th>
 <th>Test Data</th>
+<th>Expected Result</th>
+<th>Actual Result</th>
+<th>Status</th>
 </tr>
 </thead>
 <tbody>
-<tr><td>1</td>
-<td>Login Function for Roja</td>
-<td>1) Enter USER ID <p></p>
-<p>2) Enter Password</p>
-<p>3) Click Sign in</p>
-</td>
-<td>Email: test@ibm.com<p></p>
-<p>Password: lNf9^Oti7^2h</p>
-</td>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
